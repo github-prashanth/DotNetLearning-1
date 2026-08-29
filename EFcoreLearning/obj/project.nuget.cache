@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fRwLJJ5YdM8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PrasanthKumaran\\Downloads\\Phase1\\EFcoreLearning\\EFcoreLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PrasanthKumaran\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.15\\microsoft.aspnetcore.openapi.9.0.15.nupkg.sha512",
+    "C:\\Users\\PrasanthKumaran\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

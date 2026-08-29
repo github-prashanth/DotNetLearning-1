@@ -1,0 +1,28 @@
+GET http://localhost:5198/api/student
+
+###
+GET http://localhost:5198/api/student/1
+
+###
+POST http://localhost:5198/api/student
+Content-Type: application/json
+
+{
+    "name": "Ajith",
+    "age": 30,
+    "course": "Automobile",
+    "email": "ajith@example.com"
+}
+
+###
+PUT http://localhost:5198/api/student/39
+Content-Type: application/json
+
+{
+    "name": "Ajith Kumar",
+    "age": 31,
+    "course": "Automobile",
+    "email": "ajithkumar@example.com"
+}
+###
+DELETE http://localhost:5198/api/student/1

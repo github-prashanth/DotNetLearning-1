@@ -1,0 +1,17 @@
+POST http://localhost:5087/api/payment
+
+###
+
+POST http://localhost:5087/api/payment/?amount=290
+
+###
+POST http://localhost:5087/api/payment
+Content-Type: application/json
+
+{
+    "amount": 1232
+}
+
+
+###
+GET http://localhost:5087/api/lifetime

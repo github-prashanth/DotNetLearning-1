@@ -1,0 +1,14 @@
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\bin\Debug\net9.0\Phase1.exe
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\bin\Debug\net9.0\Phase1.deps.json
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\bin\Debug\net9.0\Phase1.runtimeconfig.json
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\bin\Debug\net9.0\Phase1.dll
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\bin\Debug\net9.0\Phase1.pdb
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.AssemblyInfoInputs.cache
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.AssemblyInfo.cs
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.csproj.CoreCompileInputs.cache
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.dll
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\refint\Phase1.dll
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.pdb
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\Phase1.genruntimeconfig.cache
+C:\Users\PrasanthKumaran\Downloads\Phase1\Phase1\obj\Debug\net9.0\ref\Phase1.dll
